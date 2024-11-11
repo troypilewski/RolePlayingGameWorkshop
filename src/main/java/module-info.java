@@ -6,6 +6,6 @@ module com.app.rpgws {
 
     opens com.app.rpgws to javafx.fxml;
     exports com.app.rpgws;
-    exports com.app.rpgws.controllers;
-    opens com.app.rpgws.controllers to javafx.fxml;
+    exports com.app.rpgws.controller;
+    opens com.app.rpgws.controller to javafx.fxml;
 }

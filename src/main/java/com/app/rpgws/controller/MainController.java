@@ -1,4 +1,4 @@
-package com.app.rpgws.controllers;
+package com.app.rpgws.controller;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
