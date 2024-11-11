@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+<HBox prefHeight="438.0" prefWidth="432.0" xmlns="http://javafx.com/javafx/17.0.2-ea">
+   <VBox>
+      <HBox alignment="CENTER_LEFT" spacing="5.0">
+         <Label text="Name: "/>
+         <Button mnemonicParsing="false" text="Generate"/>
+      </HBox>
+      <HBox alignment="CENTER_LEFT" layoutX="10.0" layoutY="10.0" spacing="5.0">
+         <Label text="Player:"/>
+      </HBox>
+   </VBox>
+   <VBox>
+      <HBox>
+         <TextField/>
+      </HBox>
+   </VBox>
+</HBox>
