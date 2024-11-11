@@ -1,4 +1,4 @@
-package com.app.rpgws.controller;
+package com.app.rpgws.controllers;
 
 public class CharacterDesigner {
 }
